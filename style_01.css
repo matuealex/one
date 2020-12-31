@@ -1,0 +1,52 @@
+img[alt="Phone One"] {
+    border: 3px solid grey;
+}
+
+h3{
+    color: blue;
+    background-color: #ccc;
+    border: 3px solid black;
+    text-align: center;
+}
+
+h1{
+    
+    color: green;
+}
+
+p{
+    font-size: 14px;
+}
+
+.new-class1{
+    color: darkblue;
+    font-size: 16px;
+}
+
+.id_p01{
+    font-size:12px;
+    color: green;
+    background-image: url(img/phone_01.jpeg);
+    background-repeat: no-repeat;
+    background-position: center 0;
+}
+
+.link{
+    text-transform: uppercase;
+/* */    text-decoration: none;
+/*    */
+}
+
+.list01{
+    list-style-type: none;
+}
+
+.list01 > li{
+    width: 70px;
+    height: 25px;
+    border: 1px solid black;
+}
+/* */
+.list01 + p{
+    background-color: #ccc;
+} /* */
