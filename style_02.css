@@ -55,7 +55,7 @@ p{
     list-style-type: none;
 }
 
-.list li:nth-child(2):after{
+.list li:nth-child(3):after{
     content: " New";
     color: blue;
 /*    text-transform: lowercase;  */
